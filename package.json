@@ -1,0 +1,21 @@
+{
+  "name": "sqs-message-fetcher",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "dev": "./node_modules/.bin/nodemon"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "aws-sdk": "^2.232.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "nodemon": "^1.17.3"
+  }
+}
